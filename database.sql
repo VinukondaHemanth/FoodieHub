@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS foodiehub;
+CREATE DATABASE foodiehub;
 USE foodiehub;
 
 -- =========================================
